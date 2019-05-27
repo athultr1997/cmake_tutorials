@@ -1,0 +1,6 @@
+/home/athultr/cmake_tutorials/example_3_creating libraries/build/CMakeFiles/rebuild_cache.dir
+/home/athultr/cmake_tutorials/example_3_creating libraries/build/CMakeFiles/edit_cache.dir
+/home/athultr/cmake_tutorials/example_3_creating libraries/build/CMakeFiles/saying_helloo.dir
+/home/athultr/cmake_tutorials/example_3_creating libraries/build/CMakeFiles/hello-static.dir
+/home/athultr/cmake_tutorials/example_3_creating libraries/build/CMakeFiles/hello-objs.dir
+/home/athultr/cmake_tutorials/example_3_creating libraries/build/CMakeFiles/hello-shared.dir

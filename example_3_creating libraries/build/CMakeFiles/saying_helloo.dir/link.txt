@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/saying_helloo.dir/saying_hello.cpp.o  -o saying_helloo -lhello 
