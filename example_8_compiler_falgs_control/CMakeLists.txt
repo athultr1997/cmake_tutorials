@@ -15,7 +15,23 @@ set(SRC_FILES
 	src/Cube.cpp
 	)
 
+list(APPEND flags "-fPIC" "-Wall")
+
 add_library(shapes
 	STATIC 
 	${SRC_FILES}	
 	)
+
+target_compile_options(shapes
+	PRIVATE
+		${flags}
+	)
+
+add_executable(main src/main.cpp)
+
+target_compile_options(main
+	PRIVATE
+		"-fPIC"
+	)
+
+target_link_libraries(main shapes)
