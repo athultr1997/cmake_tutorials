@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Cube.hpp
+Shape3D.hpp
+../include/Shape3D.hpp
+
+../include/Shape3D.hpp
+
+/home/athul/cmake_tutorials/example_8_compiler_falgs_control/src/Cube.cpp
+Cube.hpp
+/home/athul/cmake_tutorials/example_8_compiler_falgs_control/src/Cube.hpp
+cmath
+-
+
+/home/athul/cmake_tutorials/example_8_compiler_falgs_control/src/Shape3D.cpp
+Shape3D.hpp
+/home/athul/cmake_tutorials/example_8_compiler_falgs_control/src/Shape3D.hpp
+

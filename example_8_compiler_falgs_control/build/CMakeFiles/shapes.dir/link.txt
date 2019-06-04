@@ -1,0 +1,2 @@
+/usr/bin/ar qc libshapes.a  CMakeFiles/shapes.dir/src/Shape3D.cpp.o CMakeFiles/shapes.dir/src/Cube.cpp.o
+/usr/bin/ranlib libshapes.a
