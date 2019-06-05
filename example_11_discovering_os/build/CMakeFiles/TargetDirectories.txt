@@ -1,0 +1,2 @@
+/home/athul/cmake_tutorials/example_11_discovering_os/build/CMakeFiles/rebuild_cache.dir
+/home/athul/cmake_tutorials/example_11_discovering_os/build/CMakeFiles/edit_cache.dir

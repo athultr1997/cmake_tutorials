@@ -1,0 +1,3 @@
+/home/athul/cmake_tutorials/example_12_target_compile_definitions/build/CMakeFiles/rebuild_cache.dir
+/home/athul/cmake_tutorials/example_12_target_compile_definitions/build/CMakeFiles/hello.dir
+/home/athul/cmake_tutorials/example_12_target_compile_definitions/build/CMakeFiles/edit_cache.dir
